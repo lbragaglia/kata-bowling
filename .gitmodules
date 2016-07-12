@@ -1,0 +1,3 @@
+[submodule "kata-bowling-scala"]
+	path = kata-bowling-scala
+	url = https://github.com/lbragaglia/kata-bowling-scala.git
