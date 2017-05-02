@@ -4,3 +4,6 @@
 [submodule "kata-bowling-java"]
 	path = kata-bowling-java
 	url = https://github.com/lbragaglia/kata-bowling-java.git
+[submodule "kata-bowling-csharp"]
+	path = kata-bowling-csharp
+	url = https://github.com/lbragaglia/kata-bowling-csharp.git
